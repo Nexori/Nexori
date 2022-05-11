@@ -2,7 +2,8 @@ Hi,
 My name is Chris and I am a graduate of the Silesian University of Technology,
 currently pursuing Masters in Informatics (IoT). 
 
-I am heavily interested in GameDev industry, as well as embedded programming. 
+I am heavily interested in gaming, 
+GameDev industry, as well as embedded programming. 
 
 My current technology stack includes:
 -> C/C++ (FreeRTOS, Arduino, ESP-IDF, in near future Unreal Engine 5) 
